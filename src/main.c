@@ -97,7 +97,6 @@ int main() {
                 // Remover um horário específico
                 getchar();
                 removerHorarioUsuario(&arvoreHorarios);
-                salvarDados(arvoreHorarios);
                 getchar();
                 break;
             }
